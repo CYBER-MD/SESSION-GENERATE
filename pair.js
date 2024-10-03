@@ -58,18 +58,17 @@ router.get('/', async (req, res) => {
 
                let SIGMA_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃CYBER MD SESSION IS 
+┃RUKI MD SESSION 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = CYBER AYESH_👨🏻‍💻
+❶ || Creator = RUKI
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VailD98GZNCz4zg1Br29
+❸ || Owner = https://wa.me/+94764207978
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❸ || Owner = https://wa.me/+94775341543
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-CYBER AYESH ᴏꜰᴄ`
+
+> KING RUKI MD`
  await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
  
 
